@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adufo</h1>
-<hr>
+
 <p align="left"> A DevOps Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
 <hr>
 <ul>

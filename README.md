@@ -10,7 +10,7 @@
 <p>📚I’m actively upskilling in DevSecOps, with a focus on cloud security</p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>Observability, Kubernetes,  and Cloud Security</strong></p>
+<p>🌱 I’m currently  advancing <strong>Observability, Kubernetes,  and Cloud Security</strong></p>
 </li>
 <li>
 <p>💬 Ask me about <strong>GO, Python, AWS, Terraform, Kubernetes, CI/CD, and Infrastructure as Code</strong></p>

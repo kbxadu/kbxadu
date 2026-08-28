@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adufo</h1>
 
-<p align="left"> A DevOps Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
+<p align="left"> A  Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
 <hr>
 <ul>
 <li>
 <p>🔥 I’m currently working on a platform-agnostic monitoring tool.</p>
 </li>
 <li>
-<p>📚I’m actively upskilling in DevSecOps, with a focus on cloud security</p>
 </li>
 <li>
-<p>🌱 I’m currently  advancing <strong>Observability, Kubernetes,  and Cloud Security</strong></p>
+<p>🌱 I’m currently  advancing <strong>Open-Observability, Kubernetes,  and Cloud Security</strong></p>
 </li>
 <li>
 <p>💬 Ask me about <strong>GO, Python, AWS, Terraform, Kubernetes, CI/CD, and Infrastructure as Code</strong></p>

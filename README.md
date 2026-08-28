@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adufo</h1>
-
-<p align="left"> A  Devops Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
+<p align="left"> DevOps / Platform Engineer with ~6 years across cloud infrastructure, automation, and backend development. I build the systems that let other engineers ship faster and sleep better.</p>
 <hr>
 <ul>
 <li>
-<p>🔥 I’m currently working on a platform-agnostic monitoring tool.</p>
+<p>🔥 Currently working on a platform-agnostic monitoring tool, and shipping CI/CD, secrets management, and observability infrastructure for a production backend</p>
 </li>
 <li>
-<p>🌱 I’m currently  advancing <strong>Open-Observability, Kubernetes,  and Cloud Security</strong></p>
+<p>🌱 Currently advancing <strong>Open-Observability, Kubernetes, and Cloud Security</strong></p>
 </li>
 <li>
-<p>💬 Ask me about <strong>GO, Python, AWS, Terraform, Kubernetes, CI/CD, and Infrastructure as Code</strong></p>
+<p>💬 Ask me about <strong>Go, Python, AWS, Terraform, Kubernetes, CI/CD, and Infrastructure as Code</strong></p>
 </li>
 </ul>
 <hr>
@@ -51,11 +50,9 @@
 </p>
 <hr>
 <h2 id="📊-my-github-stats-and-activity">📊 GitHub Stats</h2>
-
 <h3 id="🔥-streak-stats">🔥 Streak Stats</h3>
 <p>
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbxadu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbxadu&theme=tokyonight" alt="Emmanuel's GitHub streak stats">
 </p>
 <hr>

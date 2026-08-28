@@ -7,8 +7,6 @@
 <p>🔥 I’m currently working on a platform-agnostic monitoring tool.</p>
 </li>
 <li>
-</li>
-<li>
 <p>🌱 I’m currently  advancing <strong>Open-Observability, Kubernetes,  and Cloud Security</strong></p>
 </li>
 <li>

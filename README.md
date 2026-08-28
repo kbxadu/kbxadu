@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Adufo</h1>
 
-<p align="left"> A  Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
+<p align="left"> A  Devops Engineer with experience in agile environments, specializing in cloud infrastructure, automation, and software development. Passionate about optimizing workflows, building scalable solutions, and crafting robust software.</p>
 <hr>
 <ul>
 <li>
